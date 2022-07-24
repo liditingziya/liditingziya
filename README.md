@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liditingziya
 - 👀 I’m interested in game.
-- 🌱 I’m currently learning C# and Python.
+- 🌱 I’m currently learning C# and JAVA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
