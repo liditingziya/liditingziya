@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liditingziya
-- 👀 I’m interested in PokeOne.
+- 👀 I’m interested in nothing.
 - 🌱 I’m currently learning C#.
 
 <details open>
